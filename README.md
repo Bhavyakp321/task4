@@ -1,4 +1,4 @@
-# Code Execution Instructions
+# Code Execution Instruction
 
 This repository contains a Python script to fetch a URL using the `requests` library. Follow these steps to run the code on your local system:
 
